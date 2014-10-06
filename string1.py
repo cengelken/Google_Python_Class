@@ -6,7 +6,7 @@
 # Google's Python Class
 # http://code.google.com/edu/languages/google-python-class/
 
-# Basic string exercises
+## Basic string exercises
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,
 # printing 'OK' when each function is correct.
